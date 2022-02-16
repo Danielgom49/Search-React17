@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Taller-clase-15FEb/static/css/main.9f384778.css",
+    "main.js": "/Taller-clase-15FEb/static/js/main.a89c3c40.js",
+    "index.html": "/Taller-clase-15FEb/index.html",
+    "main.9f384778.css.map": "/Taller-clase-15FEb/static/css/main.9f384778.css.map",
+    "main.a89c3c40.js.map": "/Taller-clase-15FEb/static/js/main.a89c3c40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f384778.css",
+    "static/js/main.a89c3c40.js"
+  ]
+}
